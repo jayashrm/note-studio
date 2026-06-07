@@ -41,8 +41,6 @@ A browser-based editor for Anki note types and card templates. Import a `.colpkg
 </table>
 
 
-> To add screenshots: create a `screenshots/` folder in the repo root and save the images as `welcome.png`, `preview.png`, `notes.png`, `media.png`, and `homescreen.png`.
-
 -----
 
 ## Features
